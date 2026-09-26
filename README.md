@@ -1,5 +1,9 @@
 # 🔍 Silent Assumption Finder
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://silent-assumption-finder-k4bzuvvtnhlyphbmwqhmxy.streamlit.app/)
+
+🚀 **Live Demo:** [Launch Silent Assumption Finder App](https://silent-assumption-finder-k4bzuvvtnhlyphbmwqhmxy.streamlit.app/)
+
 A static analysis tool that reads Python and PHP source code and surfaces
 **implicit assumptions developers make without validating them** — powered by
 an LLM running on Groq.
